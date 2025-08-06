@@ -2,7 +2,7 @@
 
 Ini adalah proyek CV online pribadi yang dibuat menggunakan HTML, CSS, dan JavaScript. Proyek ini menampilkan desain yang bersih, modern, dan sepenuhnya responsif, lengkap dengan fitur-fitur interaktif untuk memberikan pengalaman pengguna yang menarik.
 
-![Pratinjau CV](img/preview.png)
+![Pratinjau CV](img/preview.jpg)
 *Catatan: Anda perlu membuat screenshot proyek Anda dan menyimpannya sebagai `img/preview.png` agar gambar ini muncul.*
 
 ## Fitur Utama
